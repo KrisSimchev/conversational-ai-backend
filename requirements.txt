@@ -1,0 +1,7 @@
+Flask==2.0.1
+Flask-SQLAlchemy==3.0
+Flask-Bcrypt==0.7.1
+gunicorn==20.1.0
+itsdangerous==2.0.1
+openai==1.1.1
+psycopg2-binary==2.9.1
